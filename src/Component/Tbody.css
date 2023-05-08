@@ -1,0 +1,21 @@
+.red{
+    background-color:red;
+    color:white;
+    text-align: center;
+}
+.green{
+    background-color:aqua;
+    color: blue;
+    text-align: center;
+}
+th{
+    width:50px;
+}
+table{
+    width:80%;
+    border-collapse: collapse;
+    margin-top:100px ;
+}
+table,td,th{
+    border: 2px solid black;
+}
